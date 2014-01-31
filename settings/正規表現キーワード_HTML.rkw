@@ -1,0 +1,9 @@
+﻿// 正規表現キーワード Ver1
+RxKey[000]=RK1,/<%[^-].*?%>/k
+RxKey[001]=RK2,/(<th|<\/th>)/k
+RxKey[002]=RK2,/(<TH|<\/TH>)/k
+RxKey[003]=RK3,/(<td|<\/td>)/k
+RxKey[004]=RK3,/(<TD|<\/TD>)/k
+RxKey[005]=RK5,/<br\/?>/k
+RxKey[006]=RK6,/\/\*.*?\*\//k
+RxKey[007]=RK7,/data-.+?=".+?"/k

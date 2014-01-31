@@ -1,0 +1,5 @@
+﻿// 正規表現キーワード Ver1
+RxKey[000]=RK1,/%\w+?%/k
+RxKey[001]=RK2,/^(set|SET) \w+?=/k
+RxKey[002]=RK4,/\\\\/k
+RxKey[003]=RK3,/[\/\\]/k
