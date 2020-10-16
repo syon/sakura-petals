@@ -1,0 +1,5 @@
+﻿//キーボードマクロのファイル
+S_ReplaceAll('^//.*\\r\\n', '', 36);	// 
+S_ReplaceAll('^<%--.*--%>\\r\\n', '', 36);	// 
+S_GoFileTop(0);	// ファイルの先頭に移動
+S_SearchClearMark(0);	// 検索マークの切替え

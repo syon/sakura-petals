@@ -1,0 +1,4 @@
+﻿//キーボードマクロのファイル
+S_BookmarkPattern(',', 36);	// 
+S_ReplaceAll(',', '\\r\\n', 164);	// 
+S_ReDraw(0);	// 再描画

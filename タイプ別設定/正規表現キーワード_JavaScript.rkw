@@ -1,0 +1,5 @@
+﻿// 正規表現キーワード Ver1
+RxKey[000]=RK1,/(?<!\w)this(?!\w)/k
+RxKey[001]=RK2,/(?<!\w)(var|\=|\+|-|:|&|<|>|\?|\|)(?!\w)/k
+RxKey[002]=RK3,/\w+(?=: function)/k
+RxKey[003]=RK4,/(?<!\w)[A-Z]\w+/k
