@@ -1,9 +1,0 @@
-﻿// 正規表現キーワード Ver1
-RxKey[000]=WQT,/"/k
-RxKey[001]=RK1,/%\w+?%/k
-RxKey[002]=RK2,/^(set|SET) \w+?=/k
-RxKey[003]=RK3,/[\/\\]/k
-RxKey[004]=RK4,/\\\\/k
-RxKey[005]=RK5,/%~?[0-9]/k
-RxKey[006]=RK6,/(^[:]\w+|goto( |:)\w+)/k
-RxKey[007]=RK7,/[=>]/k
