@@ -130,8 +130,8 @@ forms
 forward
 fromCharCode
 fromElement
-function
 Function
+function
 getData
 getDate
 getDay
@@ -176,8 +176,8 @@ Image
 images
 in
 index
-indexOf
 IndexOf
+indexOf
 innerHeight
 innerHTML
 innerText
@@ -299,8 +299,8 @@ prompt
 protocol
 prototype
 push
-random
 Random
+random
 readyState
 reason
 referrer
@@ -421,8 +421,8 @@ width
 window
 with
 write
-writeLn
 writeln
+writeLn
 x
 y
 zIndex
